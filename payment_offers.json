@@ -1,0 +1,278 @@
+{
+    "source": "Zepto Payment Offers",
+    "total_offers": 34,
+    "offers": [
+        {
+            "offer_title": "Get 15% up to ₹120 off with Indian Bank Credit Cards",
+            "bank_or_card": "Indian Bank Credit Card",
+            "discount": "15% up to ₹120",
+            "minimum_order": "orders above ₹299",
+            "promo_code": "INDIANBANKCC",
+            "details": "INDIANBANKCC Valid on orders above ₹299 - Offer applicable only twice per user in a calendar month - Offer is valid on orders above ₹299 - Max Discount offered will be ₹120 - Terms and conditions Get upto ₹25 Cashback with Amazon Pay UPI Valid on orders above ₹299 ZEPAMZUPI Valid on orders above ₹299 - Valid only for users who have linked their Amazon account and completed a payment using Amazon Pay UPI - Valid once per user per offer period - Cashback will be credited as Amazon Pay balance within 24 hours of the eligible transaction - Users will receive an email notification once the cashback is credited - Cashback details can also be checked at: www.amazon.in - Other T&C may Flat ₹150 or ₹15 cashback with Jupiter UPI Earn cashback in the form of Jewels on the Jupiter App on orders above ₹199 JUPITER Earn cashback in the form of Jewels on the Jupiter App on orders above ₹199 - Offer valid only for users who create a Jupiter account and complete their first successful transaction via Jupiter UPI on Zepto - This offer can be availed in conjunction with any ongoing offers or promotions running on Zepto. - Cashback will be credited in the form of Jupiter Jewels, which can be viewed and redeemed by logging into the Jupiter app - Jupiter Jewels can be redeemed for a wide range of products and services within the Jupiter app, including Flat Cashback, bill payments, Digi Gold, and more. - Offer valid once per user unless specified otherwise. - Jupiter reserves the right to modify, extend, or withdraw the offer at its sole discretion without prior notice. - This offer is exclusively for new users who join the Jupiter platform through this specific promotion. Existing users are not eligible. - Terms and conditions of the Jupiter Jewels program . Get upto ₹100 Cashback using Paytm UPI Valid on orders above ₹299. T&C ZEPAYTM Valid on orders above ₹299. T&C - Users receive ₹50 cashback on their first-ever Paytm transaction. - To qualify, both new and existing Paytm users must make a transaction of ₹299 or more using Paytm UPI during the offer period. - Eligible users will receive a scratch card in the Paytm app, valid for 2 days from the date of issue. - Cashback amount will be credited to the user's UPI-linked bank account within 24 hours of scratching the card. - This offer can be availed only once per user during the campaign period. - Standard Paytm terms and conditions"
+        },
+        {
+            "offer_title": "Flat ₹1,500 Off with SBI Credit Cards",
+            "bank_or_card": "SBI Credit Card",
+            "discount": "Flat ₹1,500 Off",
+            "minimum_order": "Not specified",
+            "promo_code": "ZEPAIRSBIC",
+            "details": "ZEPAIRSBIC Valid on AirPods 5 Series products - Valid on purchases of AirPods 5 Series using an eligible SBI Credit Card. - Offer valid while stocks last. - Offer is not applicable on cancelled or refunded transactions. - Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice. - Other standard T&Cs may"
+        },
+        {
+            "offer_title": "Flat ₹1,500 Off ICICI Bank Credit Card",
+            "bank_or_card": "ICICI Bank Credit Card",
+            "discount": "Flat ₹1,500 Off",
+            "minimum_order": "Not specified",
+            "promo_code": "ZEPAIRICICI",
+            "details": "ZEPAIRICICI Valid on AirPods 5 Series products - Valid on purchases of AirPods 5 Series using an eligible ICICI Bank Credit Card. - Offer valid while stocks last. - Offer is not applicable on cancelled or refunded transactions. - Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice. - Other standard T&Cs may"
+        },
+        {
+            "offer_title": "Flat ₹1,500 Off with Axis Bank Credit Card",
+            "bank_or_card": "Axis Bank Credit Card",
+            "discount": "Flat ₹1,500 Off",
+            "minimum_order": "Not specified",
+            "promo_code": "ZEPAIRAXIS",
+            "details": "ZEPAIRAXIS Valid on AirPods 5 Series products - Valid on purchases of AirPods 5 Series using an eligible Axis Bank Credit Card. - Offer valid while stocks last. - Offer is not applicable on cancelled or refunded transactions. - Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice. - Other standard T&Cs may"
+        },
+        {
+            "offer_title": "Flat ₹6,000 Off with SBI Credit Cards",
+            "bank_or_card": "SBI Credit Card",
+            "discount": "Flat ₹6,000 Off",
+            "minimum_order": "Not specified",
+            "promo_code": "ZEPIPHONESBIC",
+            "details": "ZEPIPHONESBIC Valid on iPhone 18 pro and iPhone 18 pro max models - Valid on purchases of iPhone 18 Pro and Pro Max models using an eligible SBI Credit Cards. - Offer valid while stocks last. - Offer is not applicable on cancelled or refunded transactions. - Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice. - Other standard T&Cs may"
+        },
+        {
+            "offer_title": "Flat ₹6,000 Off with Axis Bank Credit Card",
+            "bank_or_card": "Axis Bank Credit Card",
+            "discount": "Flat ₹6,000 Off",
+            "minimum_order": "Not specified",
+            "promo_code": "ZEPIPHONEAXIS",
+            "details": "ZEPIPHONEAXIS Valid on iPhone 18 pro and iPhone 18 pro max models - Valid on purchases of iPhone 18 Pro and Pro Max models using an eligible Axis Bank Credit Card. - Offer valid while stocks last. - Offer is not applicable on cancelled or refunded transactions. - Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice. - Other standard T&Cs may"
+        },
+        {
+            "offer_title": "Flat ₹6,000 Off with ICICI Bank Credit Card",
+            "bank_or_card": "ICICI Bank Credit Card",
+            "discount": "Flat ₹6,000 Off",
+            "minimum_order": "Not specified",
+            "promo_code": "ZEPIPHONEICICI",
+            "details": "ZEPIPHONEICICI Valid on iPhone 18 pro and iPhone 18 pro max models - Valid on purchases of iPhone 18 Pro and Pro Max models using an eligible ICICI Bank Credit Card. - Offer valid while stocks last. - Offer is not applicable on cancelled or refunded transactions. - Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice. - Other standard T&Cs may"
+        },
+        {
+            "offer_title": "Flat ₹100 off with IndusInd Bank Credit Cards",
+            "bank_or_card": "IndusInd Bank Credit Card",
+            "discount": "Flat ₹100 off",
+            "minimum_order": "orders above ₹999",
+            "promo_code": "ZEPINDCC",
+            "details": "ZEPINDCC Valid on orders above ₹999 - Applicable once per card, per user during the offer period - Valid on Induslnd Bank Credit Cards only - Terms and conditions"
+        },
+        {
+            "offer_title": "Flat ₹100 off with RBL Bank Credit cards",
+            "bank_or_card": "RBL Bank Credit Card",
+            "discount": "Flat ₹100 off",
+            "minimum_order": "transactions above ₹999",
+            "promo_code": "ZEPRBLCC",
+            "details": "ZEPRBLCC Valid on transactions above ₹999 - Valid once per user during the offer period - Valid on RBL Bank Credit card Full swipe transactions only - This offer will not be applicable on Commercial and Corporate RBL Bank Credit Cards - Other T&C may"
+        },
+        {
+            "offer_title": "Flat ₹75 Off with IDFC FIRST Bank Credit Cards",
+            "bank_or_card": "IDFC FIRST Bank Credit Card",
+            "discount": "Flat ₹75 Off",
+            "minimum_order": "transactions above ₹750",
+            "promo_code": "ZEPIDFCCC",
+            "details": "Valid on transactions above ₹750 only on Sundays ZEPIDFCCC Valid on transactions above ₹750 only on Sundays - Offer is valid only on sundays every week during the campaign period - Offer is valid only once per card per user - Offer is valid on select IDFC FIRST Bank Credit Cards"
+        },
+        {
+            "offer_title": "Flat ₹125 Off with IDFC FIRST Bank Debit Cards",
+            "bank_or_card": "IDFC FIRST Bank Debit Card",
+            "discount": "Flat ₹125 Off",
+            "minimum_order": "transactions above ₹599",
+            "promo_code": "ZEPIDFCDC",
+            "details": "ZEPIDFCDC On transactions above ₹599 - Offer is valid once per card per user during offer period - Offer is valid on select IDFC FIRST Bank Debit Cards - Offer is valid above cart value of ₹599 or more - Other T&C may"
+        },
+        {
+            "offer_title": "Flat ₹100 off with HSBC Bank Credit Cards",
+            "bank_or_card": "HSBC Bank Credit Card",
+            "discount": "Flat ₹100 off",
+            "minimum_order": "orders above ₹999",
+            "promo_code": "ZEPHSBC",
+            "details": "ZEPHSBC Valid on orders above ₹999 - Offer applicable once per user during offer period - Valid only on HSBC Credit Cards - Other T&Cs may"
+        },
+        {
+            "offer_title": "Get 15% up to ₹125 off with HDFC Mastercard Debit Cards",
+            "bank_or_card": "HDFC Bank Mastercard Debit Card",
+            "discount": "15% up to ₹125",
+            "minimum_order": "orders above ₹599",
+            "promo_code": "ZEPMAHDFCDC",
+            "details": "Valid on orders above ₹599 only on Tuesdays and Thursdays ZEPMAHDFCDC Valid on orders above ₹599 only on Tuesdays and Thursdays - Offer is applicable only on select Mastercard HDFC Debit Cards. - Offer is valid on orders above ₹599. - Offer is valid only on Tuesdays and Thursdays every week. - Offer is valid only once per card per user. - Other terms and conditions may"
+        },
+        {
+            "offer_title": "Flat 15% off with Punjab National Bank Credit Cards",
+            "bank_or_card": "Punjab National Bank Credit Card",
+            "discount": "15% off",
+            "minimum_order": "orders above ₹500",
+            "promo_code": "ZEPPNBCC",
+            "details": "ZEPPNBCC Upto ₹125 off on orders above ₹500 - Offer is valid twice per card per month - Valid on Punjab National Bank Credit Cards only - Terms and conditions"
+        },
+        {
+            "offer_title": "Flat 25% off up to ₹200 with SBI Visa Infinite, Signature, Platinum & Business Platinum Debit Cards",
+            "bank_or_card": "SBI Visa Debit Card",
+            "discount": "25% off up to ₹200",
+            "minimum_order": "orders above ₹599",
+            "promo_code": "SBIVISADC25",
+            "details": "SBIVISADC25 Valid on orders above ₹599 - Offer applicable on SBI Visa Infinite, Signature, Platinum and Business Platinum Debit Cards - Offer is valid on orders above Rs. 599 - Offer is valid only once per card per user per month - Other T&C may"
+        },
+        {
+            "offer_title": "Flat ₹100 off with SBI Mastercard Debit Card",
+            "bank_or_card": "SBI Mastercard Debit Card",
+            "discount": "Flat ₹100 off",
+            "minimum_order": "orders above ₹399",
+            "promo_code": "ZEPMASBIDC100",
+            "details": "ZEPMASBIDC100 Valid on orders above ₹399 - Offer is applicable only on select Mastercard SBI Debit Cards - Offer is valid on orders above ₹399 - Offer is valid only thrice per card per user - Other terms and conditions may"
+        },
+        {
+            "offer_title": "Get 10% off up to ₹150 with Federal Bank Credit Cards",
+            "bank_or_card": "Federal Bank Credit Card",
+            "discount": "10% off up to ₹150",
+            "minimum_order": "orders above ₹999",
+            "promo_code": "ZEPFEDCC",
+            "details": "ZEPFEDCC Valid on orders above ₹999 only on Saturday & Sunday - Offer is valid once per card per month - Valid on Federal Bank Credit Cards only - Offer is valid only on Saturday and Sundays every week during the campaign period - Other Terms and conditions"
+        },
+        {
+            "offer_title": "Flat ₹100 off with YES Bank Credit Cards",
+            "bank_or_card": "YES Bank Credit Card",
+            "discount": "Flat ₹100 off",
+            "minimum_order": "orders above ₹1250",
+            "promo_code": "ZEPYESCC",
+            "details": "ZEPYESCC Valid on orders above ₹1250 only on Friday, Saturday & Sunday - Offer applicable once per user - Offer valid once per card per month - Offer valid for orders above ₹1250 - Offer is valid only on Friday, Saturday and Sunday of every week during the campaign period - Other T&C may"
+        },
+        {
+            "offer_title": "Flat 10% up to ₹125 off with Federal Bank Debit Cards",
+            "bank_or_card": "Federal Bank Debit Card",
+            "discount": "10% up to ₹125",
+            "minimum_order": "orders above ₹999",
+            "promo_code": "ZEPFEDDC",
+            "details": "ZEPFEDDC Valid on orders above ₹999 only on Saturday & Sunday - Offer is valid once per card per month - Valid on Federal Bank Debit Cards only - Offer is valid only on Saturday and Sundays every week during the campaign period - Other Terms and conditions"
+        },
+        {
+            "offer_title": "Flat ₹75 off with DBS Bank Credit Cards",
+            "bank_or_card": "DBS Bank Credit Card",
+            "discount": "Flat ₹75 off",
+            "minimum_order": "transactions above ₹750",
+            "promo_code": "ZEPDBSCC",
+            "details": "ZEPDBSCC Valid on transactions above ₹750 only on Friday, Saturday & Sunday - Applicable once per card, per user during the offer period - Valid on DBS Bank Vantage & Spark Credit Cards only - Offer is valid only on Friday, Saturday and Sunday of every week during the campaign period - Other terms and conditions may"
+        },
+        {
+            "offer_title": "Flat ₹100 off with Visa Platinum Credit Cards",
+            "bank_or_card": "Visa Platinum Credit Card",
+            "discount": "Flat ₹100 off",
+            "minimum_order": "orders above ₹1250",
+            "promo_code": "VISAPLATINUMCC",
+            "details": "VISAPLATINUMCC Valid on orders above ₹1250 - Offer applicable once per user per month on Visa Platinum Credit Cards. - Valid only on the Zepto App in cities where Zepto operates. - Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice. - Standard terms and conditions"
+        },
+        {
+            "offer_title": "Flat ₹75 off with Visa Platinum Debit Cards",
+            "bank_or_card": "Visa Platinum Debit Card",
+            "discount": "Flat ₹75 off",
+            "minimum_order": "orders above ₹500",
+            "promo_code": "VISAPLATINUMDC",
+            "details": "VISAPLATINUMDC Valid on orders above ₹500 - Offer applicable once per user per month on Platinum Debit Cards. - Valid only on the Zepto App in cities where Zepto operates. - Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice. - Standard terms and conditions"
+        },
+        {
+            "offer_title": "Get 10% off up to ₹100 with IDBI Bank Debit Cards",
+            "bank_or_card": "IDBI Bank Debit Card",
+            "discount": "10% off up to ₹100",
+            "minimum_order": "orders above ₹399",
+            "promo_code": "ZEPIDBIDC",
+            "details": "ZEPIDBIDC Valid on orders above ₹399 - Applicable once per card, per user - Valid on IDBI Debit Cards - Other terms and conditions"
+        },
+        {
+            "offer_title": "Get flat 10% up to ₹100 off with IDBI Bank Credit Cards",
+            "bank_or_card": "IDBI Bank Credit Card",
+            "discount": "10% up to ₹100",
+            "minimum_order": "orders above ₹399",
+            "promo_code": "ZEPIDBICC",
+            "details": "ZEPIDBICC Valid on orders above ₹399 - Applicable once per card, per user - Valid on IDBI Credit Cards - Other terms and conditions"
+        },
+        {
+            "offer_title": "Get flat ₹50 Cashback on RuPay Credit Card",
+            "bank_or_card": "Credit Card",
+            "discount": "₹50 Cashback",
+            "minimum_order": "orders above ₹399",
+            "promo_code": "BHIMRUPAY",
+            "details": "Payments via BHIM BHIMRUPAY Valid on orders above ₹399 - Valid only on first RuPay Credit Cards payments linked to UPI via BHIM App - Offer can be availed only once per user during the offer period - Minimum order value to avail the offer is INR 399/- - Cashback will be credited directly to the user’s primary bank account linked with the BHIM App - Additional Terms & Conditions may Get upto ₹100 cashback with Amazon Pay Later ZEPAPL Valid on orders above ₹399 - Valid only for users who have linked their Amazon account and made a payment using Amazon Pay Later - Applicable only to India mobile-verified users - Valid on Zepto orders with a minimum transaction value of ₹399 - Cashback will be issued only after the user scratches the issued scratch card on the Amazon Pay Rewards page: https://www.amazon.in/h/rewards - The scratch card will be available until the end of the month - Cashback will be credited as Amazon Pay balance within 24 hours of scratching the card - This offer is valid once per user per offer period - Other T&C may Flat ₹10 instant discount via MobiKwik UPI MBKUPI Valid on orders above ₹399 - The minimum order value to avail the offer is ₹399/- - Valid once per user on the UPI transaction via MobiKwik - Use code MBKUPI on Zepto offer page and complete the payment via MobiKwik UPI. - Offer valid from 7th – 30th Sep 2026 - Other T&C may Flat ₹25 off with AU 0101 app AUUPI Valid on orders above ₹399 - Offer applicable Once per user per offer period - Valid only on Payment made by AU 0101 App - Other T&C may Flat ₹20 cashback with Bajaj Pay UPI ZEPBAJAJ Valid on orders above ₹399 - Flat ₹20/- cashback on placing a successful order on Zepto - Minimum order value ₹399/- - Offer applicable on payment via Bajaj Pay UPI, Lite & Rupay CC linked to Bajaj Pay UPI - Valid once per user in the offer period - Offer valid till 30th September 2026. - Cashback will be credited to users in Bajaj Pay Wallet within 7 working days, user needs to reveal the scratch card under the rewards section in the Bajaj Finance App - For select customers & additional terms/conditions Get Flat ₹10 cashback on payment via MobiKwik wallet MBKWALLET Valid on orders above ₹399 - The minimum order value to avail the cashback is ₹399/- - Use code MBKWALLET on Zepto coupon page to avail the cashback - Offer valid once per user from 1st – 30th Sep 2026. - Cashback can be claimed through a scratch card on the MobiKwik app in the rewards section - Scratch card will be valid for 7 days - Users will get a flat cashback of Rs 10 - Cashback shall be credited to KYC users instantly - Other T&C may Get upto ₹50 Cashback on using Amazon Pay Balance AMAZONPAY Valid on orders above ₹399 - Valid only for users who have linked their Amazon account and made a payment using Amazon Pay Balance - Applicable only to India mobile-verified users - Valid on Zepto orders with a minimum transaction value of ₹399 - Cashback will be issued only after the user scratches the issued scratch card on the Amazon Pay Rewards page: https://www.amazon.in/h/rewards - The scratch card will be available until the end of the month - Cashback will be credited as Amazon Pay balance within 24 hours of scratching the card - This offer is valid once per user - Other T&C may"
+        },
+        {
+            "offer_title": "Get 10% off up to ₹50 with IDFC FIRST SWYP Credit Card",
+            "bank_or_card": "IDFC FIRST Bank SWYP Credit Card",
+            "discount": "10% off up to ₹50",
+            "minimum_order": "orders above ₹499",
+            "promo_code": "ZEPTOSWYP",
+            "details": "ZEPTOSWYP Valid on orders above ₹499 - Offer applicable once per user - Valid only on IDFC FIRST SWYP Credit Card - Other T&C may"
+        },
+        {
+            "offer_title": "Get ₹50 off with Novio Credit Card",
+            "bank_or_card": "Novio Credit Card",
+            "discount": "₹50 off",
+            "minimum_order": "orders above ₹499",
+            "promo_code": "NOVIO50",
+            "details": "NOVIO50 Valid on orders above ₹499 - Applicable 3 times per card during the offer period - Total offer benefit limited to Rs. 150 in a month - Exclusive for SBM Novio RuPay Credit Card, DCB Novio RuPay Credit Card, IOB Novio RuPay credit cards & YES Bank credit cards customers - Other T&Cs may"
+        },
+        {
+            "offer_title": "Flat ₹75 off with Visa Classic Debit Cards",
+            "bank_or_card": "Visa Classic Debit Card",
+            "discount": "Flat ₹75 off",
+            "minimum_order": "orders above ₹500",
+            "promo_code": "VISACLASSICDC",
+            "details": "VISACLASSICDC Valid on orders above ₹500 - Offer applicable once per user per month on Classic Debit Cards. - Valid only on the Zepto App in cities where Zepto operates. - Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice. - Standard terms and conditions"
+        },
+        {
+            "offer_title": "Get Flat 15% off with Indian Overseas Bank Credit Cards",
+            "bank_or_card": "Indian Overseas Bank Credit Card",
+            "discount": "15% off",
+            "minimum_order": "orders above ₹500",
+            "promo_code": "ZEPIOBCC",
+            "details": "ZEPIOBCC Valid up to ₹100 on orders above ₹500 - Offer is valid twice per card per month - The maximum discount available is ₹100 - Valid on Indian Overseas Bank Credit cards only - Additional T&C may"
+        },
+        {
+            "offer_title": "Get 10% off up to ₹100 with Jana Bank Debit Cards",
+            "bank_or_card": "Jana Bank Debit Card",
+            "discount": "10% off up to ₹100",
+            "minimum_order": "orders above ₹500",
+            "promo_code": "ZEPJANA",
+            "details": "ZEPJANA Valid on orders above ₹500 - Offer applicable only on RuPay Select and Rupay Platinum Debit Cards - Offer applicable only once per user per month - Offer valid only once per card per month - Offer valid only on orders above ₹500 - Other Terms & Conditions"
+        },
+        {
+            "offer_title": "Get 15% off with SBI Visa Global / Classic & Gold Debit Cards",
+            "bank_or_card": "SBI Visa Debit Card",
+            "discount": "15% off",
+            "minimum_order": "orders above ₹599",
+            "promo_code": "SBIVISADC15",
+            "details": "SBIVISADC15 Up to ₹100 on orders above ₹599 - Offer is applicable only on SBI Visa Global / Classic & Gold Debit Cards - Offer is valid on orders above ₹599 - Offer is valid only once per card per user per month - Other T&C may"
+        },
+        {
+            "offer_title": "Get upto ₹100 cashback on RuPay Credit Card",
+            "bank_or_card": "Credit Card",
+            "discount": "upto ₹100 cashback",
+            "minimum_order": "orders above ₹600",
+            "promo_code": "ZEPRUPAYPAYTM",
+            "details": "Payments via Paytm App ZEPRUPAYPAYTM Valid on orders above ₹600 - Valid only on RuPay Credit Cards payemnts linked to UPI via Paytm App - Offer can be availed only once per user during the offer period - Minimum order value to avail the offer is ₹600/- - Additional Terms & Conditions may"
+        },
+        {
+            "offer_title": "Flat 5% off up to ₹750 with HSBC Bank Credit Cards",
+            "bank_or_card": "HSBC Bank Credit Card",
+            "discount": "5% off up to ₹750",
+            "minimum_order": "transactions above ₹5000",
+            "promo_code": "ZEPHSBCHV",
+            "details": "ZEPHSBCHV Valid on transactions above ₹5000 - Valid once per user during the offer period - Valid on only products above ₹5000 - Offer is valid only on Electronics and Appliances (except Smartphones) - Other T&C may"
+        },
+        {
+            "offer_title": "Flat 5% off up to ₹750 with RBL Bank Credit Cards",
+            "bank_or_card": "RBL Bank Credit Card",
+            "discount": "5% off up to ₹750",
+            "minimum_order": "transactions above ₹5000",
+            "promo_code": "ZEPRBLHV",
+            "details": "ZEPRBLHV Valid on transactions above ₹5000 - Valid once per user during the offer period - Valid on only products above ₹5000 - Valid only on Electronics and Appliances (except Smartphones) - This offer will not be applicable on Commercial and Corporate RBL Bank Credit Cards - Other T&C may"
+        }
+    ]
+}

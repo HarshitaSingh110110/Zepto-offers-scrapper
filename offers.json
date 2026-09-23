@@ -1,0 +1,250 @@
+{
+  "total_offers": 35,
+  "offers": [
+    {
+      "offer_title": "Save ₹55! Get 15% up to ₹120 off with Indian Bank Credit Cards",
+      "bank_or_card": "Indian Bank",
+      "discount": "15% up to ₹120",
+      "minimum_order": "orders above ₹299",
+      "promo_code": ""
+    },
+    {
+      "offer_title": "Flat ₹1,500 Off with Axis Bank Credit Card",
+      "bank_or_card": "Axis Bank",
+      "discount": "Flat ₹1,500 Off",
+      "minimum_order": "",
+      "promo_code": "ZEPAIRAXIS"
+    },
+    {
+      "offer_title": "Flat ₹1,500 Off with SBI Credit Cards",
+      "bank_or_card": "SBI",
+      "discount": "Flat ₹1,500 Off",
+      "minimum_order": "",
+      "promo_code": "ZEPAIRSBIC"
+    },
+    {
+      "offer_title": "Flat ₹1,500 Off ICICI Bank Credit Card",
+      "bank_or_card": "ICICI Bank",
+      "discount": "Flat ₹1,500 Off",
+      "minimum_order": "",
+      "promo_code": "ZEPAIRICICI"
+    },
+    {
+      "offer_title": "Flat ₹6,000 Off with SBI Credit Cards",
+      "bank_or_card": "SBI",
+      "discount": "Flat ₹6,000 Off",
+      "minimum_order": "",
+      "promo_code": "ZEPIPHONESBIC"
+    },
+    {
+      "offer_title": "Flat ₹6,000 Off with Axis Bank Credit Card",
+      "bank_or_card": "Axis Bank",
+      "discount": "Flat ₹6,000 Off",
+      "minimum_order": "",
+      "promo_code": "ZEPIPHONEAXIS"
+    },
+    {
+      "offer_title": "Flat ₹6,000 Off with ICICI Bank Credit Card",
+      "bank_or_card": "ICICI Bank",
+      "discount": "Flat ₹6,000 Off",
+      "minimum_order": "",
+      "promo_code": "ZEPIPHONEICICI"
+    },
+    {
+      "offer_title": "Flat ₹100 off with IndusInd Bank Credit Cards",
+      "bank_or_card": "IndusInd Bank",
+      "discount": "Flat ₹100 off",
+      "minimum_order": "orders above ₹999",
+      "promo_code": "ZEPINDCC"
+    },
+    {
+      "offer_title": "Flat ₹100 off with RBL Bank Credit cards",
+      "bank_or_card": "RBL Bank",
+      "discount": "Flat ₹100 off",
+      "minimum_order": "transactions above ₹999",
+      "promo_code": "ZEPRBLCC"
+    },
+    {
+      "offer_title": "Flat ₹75 Off with IDFC FIRST Bank Credit Cards",
+      "bank_or_card": "IDFC FIRST Bank",
+      "discount": "Flat ₹75 Off",
+      "minimum_order": "transactions above ₹750",
+      "promo_code": "ZEPIDFCCC"
+    },
+    {
+      "offer_title": "Flat ₹125 Off with IDFC FIRST Bank Debit Cards",
+      "bank_or_card": "IDFC FIRST Bank",
+      "discount": "Flat ₹125 Off",
+      "minimum_order": "transactions above ₹599",
+      "promo_code": "ZEPIDFCDC"
+    },
+    {
+      "offer_title": "Flat ₹100 off with HSBC Bank Credit Cards",
+      "bank_or_card": "HSBC Bank",
+      "discount": "Flat ₹100 off",
+      "minimum_order": "orders above ₹999",
+      "promo_code": "ZEPHSBC"
+    },
+    {
+      "offer_title": "Get 15% up to ₹125 off with HDFC Mastercard Debit Cards",
+      "bank_or_card": "HDFC",
+      "discount": "15% up to ₹125",
+      "minimum_order": "orders above ₹599",
+      "promo_code": "ZEPMAHDFCDC"
+    },
+    {
+      "offer_title": "Flat 15% off with Punjab National Bank Credit Cards",
+      "bank_or_card": "Punjab National Bank",
+      "discount": "15% off",
+      "minimum_order": "orders above ₹500",
+      "promo_code": "ZEPPNBCC"
+    },
+    {
+      "offer_title": "Flat 25% off up to ₹200 with SBI Visa Infinite, Signature, Platinum & Business Platinum Debit Cards",
+      "bank_or_card": "SBI",
+      "discount": "25% off up to ₹200",
+      "minimum_order": "orders above ₹599",
+      "promo_code": "SBIVISADC25"
+    },
+    {
+      "offer_title": "Flat ₹100 off with SBI Mastercard Debit Card",
+      "bank_or_card": "SBI",
+      "discount": "Flat ₹100 off",
+      "minimum_order": "orders above ₹399",
+      "promo_code": "ZEPMASBIDC100"
+    },
+    {
+      "offer_title": "Get 10% off up to ₹150 with Federal Bank Credit Cards",
+      "bank_or_card": "Federal Bank",
+      "discount": "10% off up to ₹150",
+      "minimum_order": "orders above ₹999",
+      "promo_code": "ZEPFEDCC"
+    },
+    {
+      "offer_title": "Flat ₹100 off with YES Bank Credit Cards",
+      "bank_or_card": "YES Bank",
+      "discount": "Flat ₹100 off",
+      "minimum_order": "orders above ₹1250",
+      "promo_code": "ZEPYESCC"
+    },
+    {
+      "offer_title": "Flat 10% up to ₹125 off with Federal Bank Debit Cards",
+      "bank_or_card": "Federal Bank",
+      "discount": "10% up to ₹125",
+      "minimum_order": "orders above ₹999",
+      "promo_code": "ZEPFEDDC"
+    },
+    {
+      "offer_title": "Flat ₹75 off with DBS Bank Credit Cards",
+      "bank_or_card": "DBS Bank",
+      "discount": "Flat ₹75 off",
+      "minimum_order": "transactions above ₹750",
+      "promo_code": "ZEPDBSCC"
+    },
+    {
+      "offer_title": "Flat ₹100 off with Visa Platinum Credit Cards",
+      "bank_or_card": "Visa",
+      "discount": "Flat ₹100 off",
+      "minimum_order": "orders above ₹1250",
+      "promo_code": "VISAPLATINUMCC"
+    },
+    {
+      "offer_title": "Flat ₹75 off with Visa Platinum Debit Cards",
+      "bank_or_card": "Visa",
+      "discount": "Flat ₹75 off",
+      "minimum_order": "orders above ₹500",
+      "promo_code": "VISAPLATINUMDC"
+    },
+    {
+      "offer_title": "Flat ₹50 off with AU credit cards",
+      "bank_or_card": "AU Bank",
+      "discount": "Flat ₹50 off",
+      "minimum_order": "orders above ₹500",
+      "promo_code": "ZEPAUCC"
+    },
+    {
+      "offer_title": "Get 10% off up to ₹100 with IDBI Bank Debit Cards",
+      "bank_or_card": "IDBI Bank",
+      "discount": "10% off up to ₹100",
+      "minimum_order": "orders above ₹399",
+      "promo_code": "ZEPIDBIDC"
+    },
+    {
+      "offer_title": "Get flat 10% up to ₹100 off with IDBI Bank Credit Cards",
+      "bank_or_card": "IDBI Bank",
+      "discount": "10% up to ₹100",
+      "minimum_order": "orders above ₹399",
+      "promo_code": "ZEPIDBICC"
+    },
+    {
+      "offer_title": "Get ₹50 off with novio Credit Card",
+      "bank_or_card": "Novio Credit Card",
+      "discount": "₹50 off",
+      "minimum_order": "orders above ₹499",
+      "promo_code": ""
+    },
+    {
+      "offer_title": "Get 10% off up to ₹50 with IDFC FIRST SWYP Credit Card",
+      "bank_or_card": "IDFC FIRST Bank",
+      "discount": "10% off up to ₹50",
+      "minimum_order": "orders above ₹499",
+      "promo_code": "ZEPTOSWYP"
+    },
+    {
+      "offer_title": "Get Flat 15% off with Indian Overseas Bank Credit Cards",
+      "bank_or_card": "Indian Overseas Bank",
+      "discount": "15% off",
+      "minimum_order": "orders above ₹500",
+      "promo_code": "ZEPIOBCC"
+    },
+    {
+      "offer_title": "Get 10% off up to ₹100 with Jana Bank Debit Cards",
+      "bank_or_card": "Jana Bank",
+      "discount": "10% off up to ₹100",
+      "minimum_order": "orders above ₹500",
+      "promo_code": "ZEPJANA"
+    },
+    {
+      "offer_title": "Flat ₹75 off with Visa Classic Debit Cards",
+      "bank_or_card": "Visa",
+      "discount": "Flat ₹75 off",
+      "minimum_order": "orders above ₹500",
+      "promo_code": "VISACLASSICDC"
+    },
+    {
+      "offer_title": "Get 15% off with AU Ivy, Eternity, Royale & M Circle Program Debit Cards",
+      "bank_or_card": "AU Bank",
+      "discount": "15% off",
+      "minimum_order": "orders above ₹599",
+      "promo_code": "ZEPAUDC"
+    },
+    {
+      "offer_title": "Get 15% off with SBI Visa Global / Classic & Gold Debit Cards",
+      "bank_or_card": "SBI",
+      "discount": "15% off",
+      "minimum_order": "orders above ₹599",
+      "promo_code": "SBIVISADC15"
+    },
+    {
+      "offer_title": "Flat 5% off up to ₹750 with RBL Bank Credit Cards",
+      "bank_or_card": "RBL Bank",
+      "discount": "5% off up to ₹750",
+      "minimum_order": "transactions above ₹5000",
+      "promo_code": "ZEPRBLHV"
+    },
+    {
+      "offer_title": "Flat 5% off up to ₹750 with HSBC Bank Credit Cards",
+      "bank_or_card": "HSBC Bank",
+      "discount": "5% off up to ₹750",
+      "minimum_order": "transactions above ₹5000",
+      "promo_code": "ZEPHSBCHV"
+    },
+    {
+      "offer_title": "Get 5% upto ₹1000 off with AU Credit Cards",
+      "bank_or_card": "AU Bank",
+      "discount": "5% upto ₹1000",
+      "minimum_order": "orders above ₹5000",
+      "promo_code": "ZEPAUHV"
+    }
+  ]
+}
